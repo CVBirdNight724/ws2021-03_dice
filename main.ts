@@ -16,7 +16,7 @@ basic.forever(function () {
     } else if (ran == 2) {
         basic.showLeds(`
             . . . . .
-            . . . . .
+            . . . # .
             . . . . .
             . # . . .
             . . . . .
